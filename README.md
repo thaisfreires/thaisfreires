@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thais, a newbie in Tech and currently studying to be a Software Developer!  
+I am Thais, and I am currently working on my skills in Software Development while pursuing a Bachelor's degree in Computer Software Engineering!  
 
 <!--
 **thaisfreires/thaisfreires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
