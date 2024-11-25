@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 I am Thais, and I am currently working on my skills in Software Development while pursuing a Bachelor's degree in Computer Software Engineering!  
 
